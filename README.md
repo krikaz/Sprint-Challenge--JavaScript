@@ -48,6 +48,7 @@ New binding. This binds to the object that is constructed with the class.
 Explicit binding. This binds to the element provided with the method .call, .apply or .bind.
 
 5. Why do we need super() in an extended class?
+
 Super() is used so the child inherits the parent properties.
 
 ## Project Set up
